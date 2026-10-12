@@ -1,0 +1,17 @@
+OBJ/
+USER/Objects/
+USER/Listings/
+USER/DebugConfig/
+USER/RTE/
+docs/
+.vscode/
+*.uvguix.*
+*.bak
+*.dep
+*.htm
+*.map
+*.lst
+*.uvoptx
+*.docx
+*.xlsx
+~$*
